@@ -1,23 +1,21 @@
 # 🧠 Obesity Level Prediction Web Application
 
 ## 📌 Description
+
 A Machine Learning-based web application that predicts obesity levels using lifestyle and health data.
 
 ## 🚀 Features
-- Predict obesity level using 17 features  
-- Flask web application  
-- Machine Learning model (Random Forest)  
-- SQLite database integration  
 
-## 🧠 Technologies Used
-- Python  
-- Flask  
-- Scikit-learn  
-- Pandas  
-- SQLite  
+* Predict obesity level using 17 features
+* Flask web application
+* Random Forest model
+* SQLite database
 
-## ▶️ Run Project
+## ▶️ Run
+
 python app.py
 
 ## 👨‍🎓 Author
+
 Kalavanthula Sekhar
+
